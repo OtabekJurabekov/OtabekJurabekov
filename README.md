@@ -1,134 +1,240 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OtabekJurabekov&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Otabek%20Jurabekov&fontSize=52&fontColor=00FFFF&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20Math%20Olympian&descAlignY=58&descSize=18&descColor=c8c8ff"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Otabek+Jurabekov+👋;Competitive+Programmer+🏆;Full+Stack+%2F+BackEnd+Developer+💻;Math+%26+Algorithms+Enthusiast+🧠;Fintech+Innovator+💳" alt="Typing SVG" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=OtabekJurabekov&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/OtabekJurabekov)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otabek-jurabekov-290302225/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otabekjurabekov3@gmail.com)
+&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/OtabekJurabekov)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/OtabekJurabekov/)
+
 </div>
 
-<p align="center">
-  <em>A passionate Developer from Zangiota, Tashkent, Uzbekistan 🇺🇿 specializing in fintech, highly scalable backend architectures, and high-performance algorithms.</em>
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Hey+there!+I%27m+Otabek+%F0%9F%91%8B;IOI+2023+%E2%80%94+Hungary+Participant+%F0%9F%8C%8D;ICPC+Uzbekistan+Regional+Gold+Medalist+%F0%9F%8F%85;Codeforces+Expert+%7C+Rating+1611+%E2%9A%A1;Full+Stack+%2F+BackEnd+Developer+%F0%9F%92%BB;Building+Fintech+at+Revolution+Group+%F0%9F%92%B3;Math+%26+Algorithm+Enthusiast+%F0%9F%A7%A0" alt="Typing Animation"/>
+</div>
+
+<br/>
 
 ---
 
-## 👨‍💻 About Me
+## 🧬 About Me
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+Hey! I'm **Otabek** — a 19-year-old backend developer from **🇺🇿 Tashkent, Uzbekistan**.
+
+I live at the intersection of **high-performance algorithms** and **production-grade backend engineering**. By day, I architect fintech systems at [Revolution Group](https://revolutionuz.com), powering **Yubor** & **Tezpay** — real apps moving real money. By night, I'm grinding competitive programming contests on Codeforces and LeetCode, chasing that next rating milestone.
+
+I had the privilege of representing Uzbekistan at **IOI 2023** in Budapest, Hungary — one of the most prestigious CS olympiads on the planet. I've earned a **Gold Medal at ICPC Uzbekistan Regionals** and collected math medals from SEAMO, AMC, HKIMO, and IZhO. Each one taught me a fundamentally different way to think about hard problems.
+
+The thing that drives me? Writing code that's both *elegant* and *bulletproof*. Clean architecture, tight algorithms, zero downtime. That's the dream. 🚀
+
+- 🏢 **Currently:** BackEnd Dev @ **Revolution Group** · Fintech (Yubor, Tezpay)
+- 🎓 **Studying:** Software Engineering @ **PDP University**, Tashkent
+- 🧩 **Passion:** Algorithms · System Design · Competitive Programming
+- 🌐 **Languages:** English · Uzbek
+- 📬 **Contact:** [otabekjurabekov3@gmail.com](mailto:otabekjurabekov3@gmail.com) · +998 95 049 33 55
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Tech Arsenal
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/otabek-jurabekov-290302225/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:otabekjurabekov3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=cpp,php,python,cs,nodejs,nextjs&theme=dark&perline=6" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mysql,docker,git,linux&theme=dark&perline=6" />
+
+<br/><br/>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=flat-square&logo=docker&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-6B21A8?style=flat-square&logoColor=white)
+
 </div>
 
-* 🚀 I'm currently working as a **BackEnd Developer** at **Revolution Group** (building fintech solutions like Yubor and Tezpay).
-* 🎓 Deep diving into Software Engineering at **PDP University**.
-* 💡 My core focus involves **RESTful APIs, microservices, system design, data modeling**, and squeezing out **maximum performance**.
-* 🏅 Solid foundation in mathematics, algorithms, and systems thinking—proven by top ranks at international olympiads.
-* 💬 Ask me about: **C++, PHP, Python, Algorithms, Database Optimizations**
-* 📫 Reach me at: **[otabekjurabekov3@gmail.com](mailto:otabekjurabekov3@gmail.com)** or **+998 95 049 33 55**
-
 ---
 
-## 🛠 Tech Stack
-
-I believe in writing clean, well-tested code powered by top-tier tools.
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <br/>
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <br/>
-  <!-- Infra -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
----
-
-## 🏆 Competitive Programming & Problem Solving
-
-My algorithmic problem-solving profiles:
+## 🏆 Competitive Programming
 
 <div align="center">
-  <a href="https://leetcode.com/u/OtabekJurabekov/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://codeforces.com/profile/OtabekJurabekov">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/otabekjurabekov">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://robocontest.uz/profile/captain_">
-    <img src="https://img.shields.io/badge/RoboContest-captain__-000000?style=for-the-badge&logoColor=white" alt="RoboContest" />
-  </a>
-  <a href="https://www.hackerearth.com/@otabek3/">
-    <img src="https://img.shields.io/badge/HackerEarth-otabek3-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
-  </a>
+
+[![CF Expert](https://img.shields.io/badge/Codeforces-Expert%20%7C%20Rating%201611-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/OtabekJurabekov)
+[![CF Max](https://img.shields.io/badge/Max%20Rating-1642-6B21A8?style=for-the-badge)](https://codeforces.com/profile/OtabekJurabekov)
+[![CF Contests](https://img.shields.io/badge/Contests-41%20Participated-22C55E?style=for-the-badge)](https://codeforces.com/profile/OtabekJurabekov)
+[![LC Rank](https://img.shields.io/badge/LeetCode-Global%20%23157%2C493-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/OtabekJurabekov/)
+
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://leetcode.com/u/OtabekJurabekov/">
-    <img src="https://leetcard.jacoblin.cool/OtabekJurabekov?theme=tokyonight&ext=heatmap" alt="LeetCode Stat Card" width="400" />
+    <img src="https://leetcard.jacoblin.cool/OtabekJurabekov?theme=dark&font=baloo_2&ext=heatmap&border=0&radius=20" width="400" alt="LeetCode Stats"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/OtabekJurabekov">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=OtabekJurabekov&theme=tokyonight" alt="Codeforce Stat Card" width="400" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=OtabekJurabekov&theme=tokyonight" width="400" alt="Codeforces Stats"/>
   </a>
 </div>
 
-> **Note:** Above are dynamically generated stat cards reflecting my real-time problem-solving journey!
+<br/>
+
+<div align="center">
+
+| Platform | Profile | Highlights |
+|:---:|:---|:---|
+| 🔵 **Codeforces** | [OtabekJurabekov](https://codeforces.com/profile/OtabekJurabekov) | **Expert** · Rating **1611** · Max **1642** · **41** Contests |
+| 🟡 **LeetCode** | [OtabekJurabekov](https://leetcode.com/u/OtabekJurabekov/) | Global Rank **#157,493** |
+| 🟢 **HackerRank** | [otabekjurabekov](https://www.hackerrank.com/profile/otabekjurabekov) | Active |
+| 🟣 **HackerEarth** | [@otabek3](https://www.hackerearth.com/@otabek3/) | Active |
+| ⚫ **RoboContest** | [captain_](https://robocontest.uz/profile/captain_) | Active |
+
+</div>
 
 ---
 
-## 💼 Professional Experience
+## 🥇 International Honors & Olympiads
 
-* **Revolution Group** (May 2025 – Present) 
-  * _BackEnd Developer_ — Developing and maintaining reliable backend services for fintech applications (Yubor and Tezpay). Focus on integration, performance optimization, and production reliability.
-* **Asaxiy LLC** (May 2022 – Apr 2025)
-  * _Backend Developer_ — Gained deep hands-on experience building backend modules and core components.
+<div align="center">
+
+| Year | Competition | Achievement |
+|:----:|:------------|:------------|
+| 2023 | 🌍 **International Olympiad in Informatics (IOI 2023)** — Budapest, Hungary | 🎖️ National Representative · **Participant** |
+| 2023 | 🏆 **ICPC Uzbekistan Regional Championship** | 🥇 **Gold Medal** · 3rd Place |
+| Multi | 🌏 **SEAMO** (Southeast Asian Math Olympiad) | 🥇 Gold · 🥈 Silver · 🥉 Bronze (Multiple Editions) |
+| 2020 | 🌏 **SEAMO 2020** | 🥈 **Silver Medal** |
+| Multi | 📐 **AMC** (American Mathematics Competition) | 🥇 **Gold Award** |
+| Multi | 🇭🇰 **HKIMO** (Hong Kong International Math Olympiad) | 🥈 **Silver Medal** |
+| Multi | 🧪 **IZhO** (International Zhautykov Olympiad) | 🥉 **Bronze Medal** |
+
+</div>
 
 ---
 
-## 🥇 Honors & Olympiads
+## 💼 Professional Journey
 
-I have consistently competed and excelled in top-tier national and international mathematical & informatics olympiads:
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  🏦  REVOLUTION GROUP  ·  BackEnd Developer                             │
+│      📅 May 2025 – Present  ·  📍 Samarqand, Uzbekistan                  │
+│                                                                          │
+│      ▸ Building backend services for fintech apps: Yubor & Tezpay       │
+│      ▸ Designing RESTful APIs & third-party integrations                │
+│      ▸ Performance optimization & production reliability at scale       │
+│      ▸ Stack: PHP · PostgreSQL · Redis · Docker · Linux                 │
+├──────────────────────────────────────────────────────────────────────────┤
+│  🛒  ASAXIY LLC  ·  BackEnd Developer                                   │
+│      📅 May 2022 – April 2025  ·  📍 Tashkent, Uzbekistan                │
+│                                                                          │
+│      ▸ Core backend modules for one of UZ's top e-commerce platforms    │
+│      ▸ Data modeling, API design, and scalable system architecture      │
+│      ▸ 3 years of hands-on production engineering experience            │
+└──────────────────────────────────────────────────────────────────────────┘
+```
 
-- **ICPC 2023 Uzbekistan Regional** — `Gold Medalist` 🥇
-- **International Olympiad in Informatics (IOI) 2023** — `Participant` 🌍
-- **SEAMO** — `Gold, Silver, and Bronze Medals` (Multiple Editions) 🏅
-- **AMC** — `Gold Award` 🌟
-- **HKIMO** — `Silver Medal` 🥈
-- **IZhO** — `Bronze Medal` 🥉
+---
+
+## 🔭 Currently Building
+
+<div align="center">
+
+| Project | Description | Status |
+|:---:|:---|:---:|
+| 🌐 **[ilmora.uz](https://ilmora.uz)** | AI-powered vocabulary learning platform | 🚀 Live |
+| 🏦 **Yubor** | Fintech payment solution @ Revolution Group | 🔨 In Production |
+| 🏦 **Tezpay** | Instant payment app @ Revolution Group | 🔨 In Production |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| 🎓 Institution | 📚 Program | 📅 Duration |
+|:---:|:---|:---:|
+| **PDP University**, Tashkent | B.Sc. Software Development | Sep 2024 – Present |
+| **National University of Uzbekistan** | B.Sc. Finance (General) | Sep 2023 – May 2024 |
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OtabekJurabekov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtabekJurabekov&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OtabekJurabekov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7C3AED&text_color=c9d1d9&include_all_commits=true&count_private=true" width="410"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtabekJurabekov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" width="310"/>
 </div>
+
 <br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OtabekJurabekov&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="650" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OtabekJurabekov&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF6B6B&currStreakLabel=00F0FF&dates=c9d1d9&sideLabels=00F0FF" width="700"/>
+</div>
+
+---
+
+## 🌐 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OtabekJurabekov&theme=tokyo-night&bg_color=0D1117&color=00F0FF&line=7C3AED&point=FF6B6B&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🎖️ GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OtabekJurabekov&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
 </div>
 
 ---
 
 <div align="center">
-  <i>"Committed to clean, well-tested code and architecting reliable software."</i><br><br>
-  <b>Let's connect and build something awesome together! 🚀</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=5000&color=7C3AED&center=true&vCenter=true&width=750&lines=%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22+%E2%80%94+Robert+C.+Martin" alt="Quote"/>
 </div>
+
+<br/>
+
+<div align="center">
+
+**Let's connect and build something extraordinary together!** 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otabek-jurabekov-290302225/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otabekjurabekov3@gmail.com)
+&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-Follow-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/OtabekJurabekov)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/OtabekJurabekov/)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=twinkling"/>
