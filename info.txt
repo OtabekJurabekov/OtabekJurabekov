@@ -1,0 +1,52 @@
+OTABEK JURABEKOV
+Full Stack Developer
+Zangiota, Tashkent, Uzbekistan otabekjurabekov3@gmail.com | +998 95 049 33 55
+
+
+
+
+PROFILE
+BackEnd / Full Stack Developer specializing in fintech, delivering secure and reliable services for products such as Yubor and Tezpay. Experienced in designing RESTful APIs, data modeling,
+third-party integrations, and performance optimization. Strong foundation in algorithms, mathematics, and systems thinking. Collaborative, detail-oriented, and committed to clean, well-tested code.
+
+PROFESSIONAL EXPERIENCE
+BackEnd Developer —Revolution Group (May 2025 – Present, Samarqand)
+Developing and maintaining backend services for fintech applications including Yubor and Tezpay, handling integrations, performance optimization, and production reliability.
+
+EDUCATION
+PDP University— Bachelor’s in Software Development (Sept 2024 – Present, Tashkent)
+Focus on software engineering fundamentals, algorithms, system design, and project-based learning.
+National University of Uzbekistan — Bachelor’s degree in Finance (Sept 2023 – May 2024) Completed foundational coursework in finance and economics. Grade: 1.
+TECHNICAL SKILLS
+Languages: C++, PHP, C#, Python
+Backend: REST APIs, Microservices, System Design Databases: PostgreSQL, Redis, MYSQL
+Tools & Infrastructure: Docker, Git, Linux
+
+LANGUAGES
+English, Uzbek
+
+EXPERIENCE (EARLY CAREER)
+BackendDeveloper—AsaxiyLLC(May 2022 – Apr 2025, Tashkent)
+
+LICENSES & CERTIFICATIONS
+ICPC2023 Uzbekistan Regional— Gold Medalist
+International Olympiad in Informatics (IOI) 2023 — Participant
+SEAMO — Gold, Silver, and Bronze Medals (multiple editions)
+SEAMO 2020 — Silver Medal
+AMC — Gold Award
+HKIMO — Silver Medal
+IZhO — Bronze Medal
+
+
+Competetive Programming Stats:
+
+https://www.hackerrank.com/profile/otabekjurabekov
+https://leetcode.com/u/OtabekJurabekov/
+https://codeforces.com/profile/OtabekJurabekov
+https://robocontest.uz/profile/captain_
+https://www.hackerearth.com/@otabek3/
+https://www.hackerearth.com/@jurabekov.training.cp
+
+
+linkedin:
+https://www.linkedin.com/in/otabek-jurabekov-290302225/
