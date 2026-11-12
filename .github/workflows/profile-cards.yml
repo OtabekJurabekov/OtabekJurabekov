@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Restore last published cards
         # data.json on the output branch holds the last good data for each source,
@@ -35,7 +35,7 @@ jobs:
             git archive FETCH_HEAD | tar -x -C dist
           fi
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
