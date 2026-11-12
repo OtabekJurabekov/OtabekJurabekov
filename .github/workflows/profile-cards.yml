@@ -1,0 +1,71 @@
+name: Profile cards
+
+# Rebuilds the README cards from live data and publishes them to the `output`
+# branch. The README loads them from raw.githubusercontent.com, which caches for
+# about five minutes, so the streak card is never more than about an hour behind
+# the contribution grid. The hosted card services it replaces cached for 24 hours.
+
+on:
+  schedule:
+    - cron: "23 * * * *" # hourly, off the top of the hour when Actions is busiest
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Restore last published cards
+        # data.json on the output branch holds the last good data for each source,
+        # so a Codeforces or LeetCode outage keeps the old numbers instead of failing.
+        run: |
+          mkdir -p dist
+          if git fetch --depth=1 origin output; then
+            git archive FETCH_HEAD | tar -x -C dist
+          fi
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install fonttools
+        run: pip install "fonttools[woff]==4.*"
+
+      - name: Test streak maths
+        run: python -m unittest discover -s scripts
+
+      - name: Build cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate.py --out dist
+
+      - name: Build snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?color_snake=#F2B544&color_dots=#1C3159,#155E66,#1F8C88,#2FB5AC,#7FE0D5
+            dist/snake-light.svg?color_snake=#C2851A&color_dots=#DCE4F0,#A9DDD8,#5EC2B9,#1E9E95,#0E6F6A
+
+      - name: Publish to the output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Refresh profile cards"
+          git push -q -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
